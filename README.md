@@ -1,3 +1,3 @@
 # Calculator
 This is a wonderful calculator created using Python
-I hope oyu enjoy it
+I hope you enjoy it
